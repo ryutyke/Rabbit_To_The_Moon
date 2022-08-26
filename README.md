@@ -87,3 +87,6 @@ https://drive.google.com/file/d/12kCeNzvUhqkc-Uh5M7xCmTEjp8RBNFR7/view?usp=shari
 
 
 -END-
+
+
+memo: unity engine version: 2019.1.13f1
