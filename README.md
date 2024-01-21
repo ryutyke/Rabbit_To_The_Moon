@@ -1,8 +1,7 @@
 # Rabbit_To_The_Moon
 Game made with Unity Engine (2019.11)
 <hr/>
-[Download address]
-https://drive.google.com/file/d/12kCeNzvUhqkc-Uh5M7xCmTEjp8RBNFR7/view?usp=sharing
+[Download는 Release에서 가능합니다.]
 
 <hr/>
 <주인공 설정 및 줄거리>
